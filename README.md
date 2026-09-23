@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sayef%20Sarkar%20Eashan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Developer%20%C2%B7%20PHP%20%2F%20Laravel%20%C2%B7%206%2B%20Years&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sayef Sarkar Eashan" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Sayef%20Sarkar%20Eashan&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Senior%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Sayef Sarkar Eashan" />
 
 <a href="https://github.com/SayefEshan">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=2C9AB7&center=true&vCenter=true&width=680&lines=Senior+Backend+Developer+%40+Genusys+Inc.;Scalable+APIs+with+PHP%2C+Laravel+%26+MySQL;Fintech%2C+ERP+%26+trading+platforms;10%2B+third-party+API+integrations;Exploring+cloud-native+%26+AI-driven+apps" alt="Typing intro" />
